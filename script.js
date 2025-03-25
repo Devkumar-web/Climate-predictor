@@ -1,11 +1,11 @@
-const apikey = "dcf9876218d68788282e1c12bb213234";
+const API_KEY = YOUR_API_KEY;
 
 const main = document.getElementById("main");
 const form = document.getElementById("form");
 const search = document.getElementById("search");
 
 const url = (city) =>
-  `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apikey}`;
+  `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}`;
 
 async function getWeatherByLocation(city) {
   const resp = await fetch(url(city), { origin: "cors" });
