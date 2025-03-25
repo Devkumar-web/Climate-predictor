@@ -24,7 +24,6 @@ The **Climate Predictor** is a sleek and user-friendly web application that prov
 ---
 
 ## 📸 Screenshots
-![Climate Predictor Screenshot](https://via.placeholder.com/800x400.png?text=Your+App+Screenshot+Here)
 <img width="700" alt="Screenshot 2025-02-24 at 11 50 41 AM" src="https://github.com/user-attachments/assets/2088e22b-ac37-4241-87f2-e280f5082615" /># Weather Forecasting Web Application
 
 
@@ -33,7 +32,7 @@ The **Climate Predictor** is a sleek and user-friendly web application that prov
 ## 🔧 Setup & Installation
 1️⃣ Clone this repository:
 ```bash
-    git clone https://github.com/your-username/climate-predictor.git
+    git clone https://github.com/Devkumar-web/climate-predictor.git
 ```
 2️⃣ Navigate to the project folder:
 ```bash
